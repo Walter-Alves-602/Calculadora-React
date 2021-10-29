@@ -51,7 +51,7 @@ export default class Cauculator extends Component{
             })
         }
     }
-
+//det
     addDigit(n){
         if( n==='.' && this.state.displayValue.includes('.')){
             return
